@@ -28,7 +28,7 @@ SORRY FOR ANY INCOVENIENCE.
 First, you will need to install libglib2.0-dev-bin with `sudo apt install libglib2.0-dev-bin`
 Then, you can download the script with the command below:
 ```
-wget github.com/thiggy01/change-gdm-background/raw/master/change-gdm-background
+wget github.com/hyoaru/change-gdm-background/raw/master/change-gdm-background
 ```
 And set it as an executable with `chmod +x change-gdm-background`
 
